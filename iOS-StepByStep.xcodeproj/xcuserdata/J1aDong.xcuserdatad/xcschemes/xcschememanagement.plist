@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>iOS_StepByStep.xcscheme</key>
+		<key>iOS-StepByStep.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,15 +12,15 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>90777CFA1D93A66A005EC554</key>
+		<key>90C45EB31DD9614E003E2CE4</key>
 		<dict>
 			<key>primary</key>
-			<true/>
+			<true />
 		</dict>
-		<key>90777D161D93A66B005EC554</key>
+		<key>90C45ECA1DD9614E003E2CE4</key>
 		<dict>
 			<key>primary</key>
-			<true/>
+			<true />
 		</dict>
 	</dict>
 </dict>
