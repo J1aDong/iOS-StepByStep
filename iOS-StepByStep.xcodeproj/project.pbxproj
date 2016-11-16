@@ -7,13 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9007064E1DDBF36700564850 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9007064D1DDBF36700564850 /* Main.storyboard */; };
 		90C45EB81DD9614E003E2CE4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90C45EB71DD9614E003E2CE4 /* AppDelegate.swift */; };
 		90C45EBA1DD9614E003E2CE4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90C45EB91DD9614E003E2CE4 /* ViewController.swift */; };
-		90C45EBD1DD9614E003E2CE4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90C45EBB1DD9614E003E2CE4 /* Main.storyboard */; };
 		90C45EC01DD9614E003E2CE4 /* iOS_StepByStep.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 90C45EBE1DD9614E003E2CE4 /* iOS_StepByStep.xcdatamodeld */; };
 		90C45EC21DD9614E003E2CE4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 90C45EC11DD9614E003E2CE4 /* Assets.xcassets */; };
 		90C45EC51DD9614E003E2CE4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90C45EC31DD9614E003E2CE4 /* LaunchScreen.storyboard */; };
 		90C45ED01DD9614E003E2CE4 /* iOS_StepByStepTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90C45ECF1DD9614E003E2CE4 /* iOS_StepByStepTests.swift */; };
+		90C45EDB1DD99F9A003E2CE4 /* CommonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90C45EDA1DD99F9A003E2CE4 /* CommonViewController.swift */; };
 		CB9CBB61D58661283ABD65D0 /* Pods_iOS_StepByStep.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 74AF7E1E1F07CC7434134544 /* Pods_iOS_StepByStep.framework */; };
 /* End PBXBuildFile section */
 
@@ -30,10 +31,10 @@
 /* Begin PBXFileReference section */
 		632574AA52A4FE854A572617 /* Pods-iOS-StepByStep.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOS-StepByStep.release.xcconfig"; path = "Pods/Target Support Files/Pods-iOS-StepByStep/Pods-iOS-StepByStep.release.xcconfig"; sourceTree = "<group>"; };
 		74AF7E1E1F07CC7434134544 /* Pods_iOS_StepByStep.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_iOS_StepByStep.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9007064D1DDBF36700564850 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		90C45EB41DD9614E003E2CE4 /* iOS-StepByStep.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "iOS-StepByStep.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		90C45EB71DD9614E003E2CE4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		90C45EB91DD9614E003E2CE4 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		90C45EBC1DD9614E003E2CE4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		90C45EBF1DD9614E003E2CE4 /* iOS_StepByStep.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = iOS_StepByStep.xcdatamodel; sourceTree = "<group>"; };
 		90C45EC11DD9614E003E2CE4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		90C45EC41DD9614E003E2CE4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -41,6 +42,7 @@
 		90C45ECB1DD9614E003E2CE4 /* iOS-StepByStepTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "iOS-StepByStepTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		90C45ECF1DD9614E003E2CE4 /* iOS_StepByStepTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iOS_StepByStepTests.swift; sourceTree = "<group>"; };
 		90C45ED11DD9614E003E2CE4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		90C45EDA1DD99F9A003E2CE4 /* CommonViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CommonViewController.swift; sourceTree = "<group>"; };
 		D107E59A3D64559452B2202E /* Pods-iOS-StepByStep.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-iOS-StepByStep.debug.xcconfig"; path = "Pods/Target Support Files/Pods-iOS-StepByStep/Pods-iOS-StepByStep.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -88,11 +90,12 @@
 			children = (
 				90C45EB71DD9614E003E2CE4 /* AppDelegate.swift */,
 				90C45EB91DD9614E003E2CE4 /* ViewController.swift */,
-				90C45EBB1DD9614E003E2CE4 /* Main.storyboard */,
 				90C45EC11DD9614E003E2CE4 /* Assets.xcassets */,
 				90C45EC31DD9614E003E2CE4 /* LaunchScreen.storyboard */,
 				90C45EC61DD9614E003E2CE4 /* Info.plist */,
 				90C45EBE1DD9614E003E2CE4 /* iOS_StepByStep.xcdatamodeld */,
+				90C45EDA1DD99F9A003E2CE4 /* CommonViewController.swift */,
+				9007064D1DDBF36700564850 /* Main.storyboard */,
 			);
 			path = "iOS-StepByStep";
 			sourceTree = "<group>";
@@ -213,7 +216,7 @@
 			files = (
 				90C45EC51DD9614E003E2CE4 /* LaunchScreen.storyboard in Resources */,
 				90C45EC21DD9614E003E2CE4 /* Assets.xcassets in Resources */,
-				90C45EBD1DD9614E003E2CE4 /* Main.storyboard in Resources */,
+				9007064E1DDBF36700564850 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -282,6 +285,7 @@
 				90C45EC01DD9614E003E2CE4 /* iOS_StepByStep.xcdatamodeld in Sources */,
 				90C45EBA1DD9614E003E2CE4 /* ViewController.swift in Sources */,
 				90C45EB81DD9614E003E2CE4 /* AppDelegate.swift in Sources */,
+				90C45EDB1DD99F9A003E2CE4 /* CommonViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -304,14 +308,6 @@
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		90C45EBB1DD9614E003E2CE4 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				90C45EBC1DD9614E003E2CE4 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
 		90C45EC31DD9614E003E2CE4 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (

@@ -3,27 +3,27 @@
   <component name="NewModuleRootManager">
     <content url="file://$USER_HOME$/Library/Caches/AppCode2016.2/DerivedData/iOS-StepByStep-gtfnvkzaovuqflgendlavkpfgggu/Build/Intermediates/Pods.build/Debug-iphoneos/Pods-iOS-StepByStep.build/DerivedSources" />
     <content url="file://$USER_HOME$/Library/Caches/AppCode2016.2/DerivedData/iOS-StepByStep-gtfnvkzaovuqflgendlavkpfgggu/Build/Intermediates/Pods.build/Debug-iphoneos/SnapKit.build/DerivedSources" />
-    <content url="file://$USER_HOME$/Library/Caches/AppCode2016.2/DerivedData/iOS-StepByStep-gtfnvkzaovuqflgendlavkpfgggu/Build/Intermediates/iOS-StepByStep.build/Debug-iphoneos/iOS-StepByStep.build/DerivedSources" />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Podfile" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/iOS-StepByStepTests/iOS_StepByStepTests.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/iOS-StepByStepTests/Info.plist" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/iOS-StepByStep/AppDelegate.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/iOS-StepByStep/iOS_StepByStep.xcdatamodeld/iOS_StepByStep.xcdatamodel" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/iOS-StepByStep/ViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/iOS-StepByStep/Main.storyboard" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/iOS-StepByStep/Info.plist" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/iOS-StepByStep/Assets.xcassets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/iOS-StepByStep/ViewController.swift" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/iOS-StepByStep/CommonViewController.swift" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/iOS-StepByStep/Base.lproj/LaunchScreen.storyboard" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/iOS-StepByStep/Base.lproj/Main.storyboard" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-iOS-StepByStep/Pods-iOS-StepByStep-acknowledgements.plist" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-iOS-StepByStep/Pods-iOS-StepByStep-dummy.m" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-iOS-StepByStep/Pods-iOS-StepByStep-frameworks.sh" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-iOS-StepByStep/Pods-iOS-StepByStep-umbrella.h" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-iOS-StepByStep/Info.plist" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-iOS-StepByStep/Pods-iOS-StepByStep-acknowledgements.markdown" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-iOS-StepByStep/Pods-iOS-StepByStep-acknowledgements.plist" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-iOS-StepByStep/Pods-iOS-StepByStep.modulemap" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-iOS-StepByStep/Pods-iOS-StepByStep.debug.xcconfig" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-iOS-StepByStep/Pods-iOS-StepByStep.release.xcconfig" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-iOS-StepByStep/Pods-iOS-StepByStep.modulemap" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-iOS-StepByStep/Pods-iOS-StepByStep-umbrella.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-iOS-StepByStep/Pods-iOS-StepByStep-frameworks.sh" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/Pods-iOS-StepByStep/Pods-iOS-StepByStep-resources.sh" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/SnapKit/SnapKit-prefix.pch" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pods/Target Support Files/SnapKit/SnapKit-dummy.m" isTestSource="false" />
